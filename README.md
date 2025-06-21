@@ -1,6 +1,6 @@
 # Klasyfikator tekstu
 
-To mój projekt klasyfikujący testky nagłówków newsów prasowych
+To mój projekt klasyfikujący tekstyy nagłówków newsów prasowych
 
 ## Instalacja
 
